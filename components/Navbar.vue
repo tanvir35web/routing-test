@@ -11,6 +11,7 @@
 .nav-bar {
    background: #d9ebd0;
    padding: 15px;
+   border-radius: 10px;
 }
 .active {
     background: #7da75e;
@@ -18,8 +19,9 @@
 .nav-link {
     color: black;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     padding: 10px;
     margin-right: 20px;
+    border-radius: 6px;
 }
 </style>
